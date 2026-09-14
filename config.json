@@ -20,14 +20,14 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61592856444370"
+    "61592891796221"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "بوت هيناتا V3 (عربي)",
+  "nickNameBot": " هيناتا  (عربي)",
   "prefix": "!",
   "database": {
     "type": "json",
